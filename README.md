@@ -1,8 +1,6 @@
-# cli-utils
-
-To include these utilities on your `$PATH` add this to your bashrc:
+# cmdtools
 
 ```sh
-cd cli-utils/
-echo "export PATH=`pwd`/bin:\$PATH" >> ~/.bashrc
+$ cd cmdtools
+$ echo "export PATH=`pwd`/bin:\$PATH" >> ~/.bashrc
 ```
