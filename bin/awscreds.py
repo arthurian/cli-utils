@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # vim: set ft=python noai et ts=4 sw=4:
 
 import os
